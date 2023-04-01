@@ -72,7 +72,7 @@ document.querySelector("#right4 #btt").addEventListener("click",function(){
     document.querySelector("#right4 #btt").style.boxShadow = "-5px 5px  black"
     document.querySelector("#right4 button").style.backgroundColor = "transparent"
     document.querySelector("#right4 button").style.boxShadow = "-0px 0px  transparent"
-    document.querySelector("#left4 img").src = "./LC-102.JPG"
+    document.querySelector("#left4 img").src = "./LC-102.jpg"
     document.querySelector("#right4 h1").innerHTML = "THE BREAK ROOM"
 })
 
